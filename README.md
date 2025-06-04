@@ -10,6 +10,7 @@ public class Developer
     {
         // email: atskas0@gmail.com
         Console.WriteLine("Tell me your ideas.");
+        Console.WriteLine("That was a demand, by the way. I'm out of them.");
     }
 }
 
