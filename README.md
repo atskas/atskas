@@ -2,7 +2,7 @@
 
 public class Developer
 {
-    public string[] Languages => new[] { "C#", "C++", "Lua" };
+    public string[] Languages => new[] { "C#", "Lua" };
     
     public void Build() => Console.WriteLine("Clean applications.");
     
